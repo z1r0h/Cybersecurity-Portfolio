@@ -7,7 +7,7 @@ Completed the Professional Certificate in Cybersecurity at MAGES Institute of Ex
 
 ## Certifications
 - CEH (Certified Ethical Hacker) — April 2026
-- Splunk SCDA — In Progress (Expected May 2026)
+- Splunk SCDA — May 2026
 
 ## Technical Skills
 - Network Scanning & Enumeration: Nmap, Gobuster
